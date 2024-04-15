@@ -29,9 +29,17 @@ Web GIS를 활용한 공간정보서비스 개발
 
 test-branch2 적용
 
-
 ## OSGEO 한국어 지구
 ## 봄
 ## 여름
 ## 가을
 ## 겨울
+
+## OSGEO 한국어 지부
+
+# 개발언어
+## C
+## JAVA
+## PYTHON
+## GO
+
